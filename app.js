@@ -45,3 +45,4 @@ app.listen(PORT, console.log(`listening at ${PORT}`))
 
 console.log("Hey There")
 // To run it open the terminal type npm start dev or nodemon
+console.log("Hello")
